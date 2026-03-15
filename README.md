@@ -15,6 +15,6 @@ Here’s a breakdown of my contributions and coding journey across all projects 
 > Fun Fact: My average lines of code per day are roughly 400–500, and I consistently maintain clean and scalable coding practices across all projects. 🚀  
 
 ### 📈 Contribution Graph (All-Time)
-![Ammar's GitHub All-Time Contributions](https://github-readme-stats.vercel.app/api?username=Ammar2033&count_private=true&show_icons=true&hide=prs,issues&theme=radical&commits_year=2024)
+![Ammar's GitHub All-Time Contributions](https://github-readme-stats.vercel.app/api?username=Ammar2033&count_private=true&show_icons=true&hide=prs,issues&theme=radical)
 
 > Every line, commit, and repo is a step toward building scalable, real-world solutions. 🔥
