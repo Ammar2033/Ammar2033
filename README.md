@@ -25,23 +25,23 @@ I love creating clean, efficient, and scalable software that solves real-world p
 ### [Codexon Platform](https://github.com/Ammar2033/Codexon)  
 > Scalable web & AI solutions platform. Modern architecture, clean code, and real-world impact.  
 
-### [AI Search Agent](https://github.com/Ammar2033/AI-Search-Agent)  
+### [AI Search Agent](https://github.com/Ammar2033/)  
 > Intelligent search assistant integrating multiple data sources with smart prompts.  
 
-### [School-OS](https://github.com/Ammar2033/School-OS)  
+### [School-OS](https://github.com/Ammar2033)  
 > Full-featured school management system: multi-tenant, secure, fast, and maintainable.  
 
-### [Ava-Vitamin Platform](https://github.com/Ammar2033/Ava-Vitamin)  
+### [E-ticaret Platform](https://github.com/Ammar2033/)  
 > Digital solution for health & supplement management, built for scalability and ease of use.  
 
-### [KDV Iade Portal](https://github.com/Ammar2033/KDV-Iade-Portal)  
+### [KDV Iade Portal](https://github.com/Ammar2033)  
 > Efficient financial management and document processing platform for businesses.  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ammar2033&show_icons=true&theme=radical)
+![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ammar2033&show_icons=true&count_private=true&theme=radical&hide=prs,issues)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar2033&layout=compact&theme=radical)
 
 ---
