@@ -57,11 +57,12 @@ motto: "Code. Create. Improve. 🚀"
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ammar2033&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ammar2033&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar2033&layout=compact&hide_border=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar2033&layout=compact&hide_border=true&theme=tokyonight" height="180">
 
 </div>
+
 
 ---
 
