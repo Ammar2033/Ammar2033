@@ -55,11 +55,17 @@ motto: "Code. Create. Improve. 🚀"
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ammar2033&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180">
+<a href="https://github.com/Ammar2033">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar2033&layout=compact&hide_border=true&theme=tokyonight" height="180">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ammar2033&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Ammar2033 GitHub Stats">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar2033&layout=compact&hide_border=true&theme=tokyonight" alt="Ammar2033 Top Languages">
+
+</a>
 
 </div>
 
